@@ -1,0 +1,26 @@
+.firstblock{
+    background-color: cyan;    
+}
+
+.secondblock{
+    background-color: orangered;
+    display: inline-block;
+    width:  auto;
+    height: 200px;
+}
+
+.firstspan{
+    background-color: yellow;
+}
+
+img{
+    height: 300px;
+    width: 200px;
+}
+
+.secondspan{
+    background-color: blue;
+    display: inline-block;
+    height: 20px;
+    width: 50px;
+}
